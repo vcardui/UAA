@@ -2,7 +2,7 @@
 
 int main()
 {
-  cout<<"Weenas universo! ;)"
+	printf("olo?");
 
 	return 0;
 }
