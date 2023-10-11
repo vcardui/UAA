@@ -2,7 +2,6 @@
 
 int main()
 {
-  cout<<"Weenas universo! ;)"
-
+  printf("Alo mon ami"):
 	return 0;
 }
